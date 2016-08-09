@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F9FA4881D5A7BED0070C08D /* ShowVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9FA4871D5A7BED0070C08D /* ShowVC.swift */; };
 		E90EC5331D491E86000A896A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90EC5321D491E86000A896A /* AppDelegate.swift */; };
 		E90EC5351D491E86000A896A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90EC5341D491E86000A896A /* ViewController.swift */; };
 		E90EC5381D491E86000A896A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E90EC5361D491E86000A896A /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F9FA4871D5A7BED0070C08D /* ShowVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowVC.swift; sourceTree = "<group>"; };
 		E90EC52F1D491E86000A896A /* ContactName.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactName.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E90EC5321D491E86000A896A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E90EC5341D491E86000A896A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E90EC5321D491E86000A896A /* AppDelegate.swift */,
 				E90EC5341D491E86000A896A /* ViewController.swift */,
 				E90EC5361D491E86000A896A /* Main.storyboard */,
+				1F9FA4871D5A7BED0070C08D /* ShowVC.swift */,
 				E90EC53C1D491E86000A896A /* Assets.xcassets */,
 				E90EC53E1D491E86000A896A /* LaunchScreen.storyboard */,
 				E90EC5411D491E86000A896A /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E90EC5351D491E86000A896A /* ViewController.swift in Sources */,
+				1F9FA4881D5A7BED0070C08D /* ShowVC.swift in Sources */,
 				E90EC53B1D491E86000A896A /* ContactName.xcdatamodeld in Sources */,
 				E90EC5331D491E86000A896A /* AppDelegate.swift in Sources */,
 			);
@@ -290,6 +294,7 @@
 				E90EC5461D491E86000A896A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
